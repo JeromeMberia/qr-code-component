@@ -36,8 +36,8 @@ Build a responsive QR code component that:
 
 ### Links
 
-- Solution URL: [GitHub Repository](#)
-- Live Site URL: [Live Demo](#)
+- Solution URL: [GitHub Repository](https://github.com/JeromeMberia/qr-code-component)
+- Live Site URL: [Live Demo](https://jeromemberia.github.io/qr-code-component/)
 
 ## Style Guide
 
@@ -91,4 +91,4 @@ Through this project, I reinforced my understanding of:
 ## Author
 
 Name - Jerome Mberia
-Frontend Mentor - @JeromeMberia
+Frontend Mentor - [@JeromeMberia](https://www.frontendmentor.io/profile/JeromeMberia)
