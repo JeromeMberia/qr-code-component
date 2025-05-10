@@ -1,0 +1,61 @@
+@font-face{
+    font-family: 'Outfit';
+    src:url('./assets/font/static/Outfit-Bold.ttf') format('truetype');
+    font-size:700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+    font-family: 'Outfit';
+    src:url('./assets/font/static/Outfit-Regular.ttf') format('truetype');
+    font-size:400;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root{
+    --white: hsl(0, 0%, 100%);
+    --slate-300: hsl(212, 45%, 89%);
+    --Slate-500: hsl(216, 15%, 48%);
+    --Slate-900: hsl(218, 44%, 22%);
+    font-family:'Outfit';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--slate-300);
+    display: grid;
+    place-items: center;
+    height: 100dvh;
+}
+
+img{
+    width: 100%;
+    border-radius: 8px;
+}
+
+.card{
+    width:310px;
+    background-color: var(--white);
+    margin:auto;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+}
+.card_item{
+    padding-bottom: 1rem;
+}
+.card__title{
+    color:var(--Slate-900);
+}
+.card__description{
+    color:var(--Slate-500);
+}
+
+
