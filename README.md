@@ -90,5 +90,5 @@ Through this project, I reinforced my understanding of:
 
 ## Author
 
-Name - Jerome Mberia
-Frontend Mentor - [@JeromeMberia](https://www.frontendmentor.io/profile/JeromeMberia)
+- Name - Jerome Mberia
+- Frontend Mentor - [@JeromeMberia](https://www.frontendmentor.io/profile/JeromeMberia)
